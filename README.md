@@ -9,6 +9,12 @@ O projeto foi desenvolvido com foco em experiência do usuário, organização d
 > Este repositório apresenta o case, arquitetura e principais funcionalidades do projeto.  
 > O código-fonte completo é mantido em repositórios privados.
 
+<p>
+  <a href="https://click-imoveis.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_PROJETO_ONLINE-0F172A?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 📌 Sobre o projeto
@@ -116,7 +122,7 @@ O aplicativo oferece uma experiência dedicada para dispositivos móveis e mant�
 
 ---
 
-## 👨‍💻 Minha participação
+## 👨‍💻 Minha atuação
 
 Minha atuação no projeto envolve diferentes etapas da construção e evolução da solução, incluindo:
 
